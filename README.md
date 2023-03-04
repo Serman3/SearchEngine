@@ -1,4 +1,4 @@
-# SearchEngine ![Image alt](https://github.com/{Serman3}/{searchEngine}/raw/{master}/{https://github.com/Serman3/searchEngine/tree/master/img}/1655.gif)
+# SearchEngine ![Image alt](https://github.com/jon/searchEngine/raw/master/img/1655.gif)
 ## Описание:
 Данный поисковый движок представляет из себя
 **Spring-приложение** с реализацией простого 
